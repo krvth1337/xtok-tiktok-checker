@@ -2,7 +2,7 @@ XTok TikTok Username Checker
 
 # [NOTICE]
 
-Since i cant upload files larger than 25MB, i cant give the 5c and 5l list here but you can download it from [here]https://www.mediafire.com/folder/jiw2c3ns8v0nf/5l_and_5c_list)
+Since i cant upload files larger than 25MB, i cant give the 5c and 5l list here but you can download it from [here](https://www.mediafire.com/folder/jiw2c3ns8v0nf/5l_and_5c_list)
 
 # How to run it
 
