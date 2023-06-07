@@ -1,5 +1,9 @@
 XTok TikTok Username Checker
 
+# [NOTICE]
+
+Since i cant upload files larger than 25MB, i cant give the 5c and 5l list here but you can join my [Discord Server](https://solo.to/machtfaxxen) and download it from there.
+
 # How to run it
 
 2 Options:
