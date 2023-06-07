@@ -1,0 +1,6 @@
+getch
+requests
+urllib3
+colorama
+futures
+plyer
